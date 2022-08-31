@@ -9,3 +9,11 @@ out/
 
 # Dotenv file
 .env
+.env.goerli
+
+
+.env.mainnet
+.env.testnet
+.env.rinkeby
+
+broadcast/*/
